@@ -1,0 +1,23 @@
+.App{
+    width: 1200px;
+    min-height: 100vh;
+    margin: auto;
+    padding: 2rem 0;
+    background-color: rgb(216, 223, 228);
+}
+
+.heading h1{
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 3rem;
+    font-weight: 800;
+}
+
+.random,
+.tag{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
